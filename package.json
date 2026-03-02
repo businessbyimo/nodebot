@@ -1,0 +1,13 @@
+{
+  "name": "facebook-bot",
+  "version": "1.0.0",
+  "description": "Facebook Personal Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "facebook-chat-api": "^1.8.0"
+  }
+}
