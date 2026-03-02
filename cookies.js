@@ -1,4 +1,7 @@
-[
+// cookies.js
+// ফেসবুক কুকি - সঠিক ফরম্যাটে
+
+module.exports = [
   {
     "domain": ".facebook.com",
     "expirationDate": 1806866313.41942,
@@ -14,7 +17,7 @@
   },
   {
     "domain": ".facebook.com",
-    "expirationDate": 1806950710.49584,
+    "expirationDate": 1806950710.495835,
     "hostOnly": false,
     "httpOnly": true,
     "name": "sb",
@@ -27,7 +30,7 @@
   },
   {
     "domain": ".facebook.com",
-    "expirationDate": 1806946416.08302,
+    "expirationDate": 1806946416.083017,
     "hostOnly": false,
     "httpOnly": true,
     "name": "ps_l",
@@ -40,7 +43,7 @@
   },
   {
     "domain": ".facebook.com",
-    "expirationDate": 1806946416.08328,
+    "expirationDate": 1806946416.083275,
     "hostOnly": false,
     "httpOnly": true,
     "name": "ps_n",
@@ -91,7 +94,7 @@
   },
   {
     "domain": ".facebook.com",
-    "expirationDate": 1780239350.8704,
+    "expirationDate": 1780239350.870396,
     "hostOnly": false,
     "httpOnly": true,
     "name": "fr",
@@ -104,7 +107,7 @@
   },
   {
     "domain": ".facebook.com",
-    "expirationDate": 1803999350.87059,
+    "expirationDate": 1803999350.870593,
     "hostOnly": false,
     "httpOnly": true,
     "name": "xs",
@@ -115,4 +118,4 @@
     "storeId": "0",
     "value": "19%3ANox1zl1Dx4ThZA%3A2%3A1772390714%3A-1%3A-1%3A%3AAcxf4hWX9HPRt1WSajUkJJeQ_p_1GZCPgwqs4-vS8g"
   }
-]
+];
